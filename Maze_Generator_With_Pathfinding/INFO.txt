@@ -1,1 +1,6 @@
+Imports pygame for visual output
 
+Implements recursive backtracking algorithm to generate a maze. Maze is encoded as pairs of connected cells.
+includes a method for randomly removing walls from finished maze to potentially incrwase number of successful routes.
+
+Implements A* pathfinding to find solution to generated maze.
