@@ -1,4 +1,4 @@
 Imports pygame for visual output
 
-Implements the Algorithm found in this paper:
+Implements the algorithm found in this paper:
 https://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph07-poissondisk.pdf
