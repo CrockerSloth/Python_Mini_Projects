@@ -1,0 +1,4 @@
+Imports pygame for visuals
+
+An orbital body simulation. Not physically accurate.
+Uses increased distance value to dampen effects of too large timesteps when two orbital bodies are in close proximity
