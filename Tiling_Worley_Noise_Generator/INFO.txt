@@ -1,0 +1,4 @@
+Imports pygame for visuals
+
+Worley noise generator. Uses a grid to reduce the amount of distance checks required between each pixel/point.
+Has an option to make the map tile.
